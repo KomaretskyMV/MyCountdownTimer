@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TimerText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/proximanova_black</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TimerText.Small">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="TimerText.Big">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="TimerText.Huge">
+        <item name="android:textSize">50sp</item>
+    </style>
+
+</resources>

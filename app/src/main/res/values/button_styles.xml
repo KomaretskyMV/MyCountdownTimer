@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.MaterialComponents.Button.OutlinedButton.CustomButton">
+        <item name="strokeColor">?attr/colorPrimary</item>
+        <item name="strokeWidth">3dp</item>
+    </style>
+
+</resources>
